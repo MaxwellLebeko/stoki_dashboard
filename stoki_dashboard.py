@@ -314,8 +314,8 @@ elif analysis_focus == "Competitive Landscape":
                      annotation_text="Stoki Target ARPU")
         
         st.plotly_chart(fig, use_container_width=True)
-        
-    #Feature Gap Analysis
+    
+    # 🔍 Feature Gap Analysis
 st.subheader("🔍 Feature Gap Analysis")
 
 # Melt features for heatmap
@@ -348,7 +348,6 @@ if 'Stoki' in feature_matrix.columns:
 
 st.plotly_chart(fig, use_container_width=True)
 
-   
     
     # Feature coverage statistics
     st.subheader("📊 Feature Coverage Analysis")
