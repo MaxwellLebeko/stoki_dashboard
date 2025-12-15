@@ -757,6 +757,6 @@ st.markdown("""
     <p><strong>Goal:</strong> Capture 5% of SOM (2,000 businesses) in Year 1 • 
     <strong>MRR Target:</strong> R698,000/month • 
     <strong>Channels:</strong> Content marketing + Accountant partnerships</p>
-    <small>Stoki Market Entry Dashboard • Last Updated: August 2024</small>
+    <small>Stoki Market Entry Dashboard • Last Updated: October 2025</small>
 </div>
 """, unsafe_allow_html=True)
